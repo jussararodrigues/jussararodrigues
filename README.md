@@ -1,16 +1,19 @@
-### Hi there 👋
+## Jussara falando! :wink:
 
-<!--
-**jussararodrigues/jussararodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-jussararodrigues-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
+[![Linkedin Badge](https://img.shields.io/badge/-Jussara%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jussara-rodrigues-1744ab182/)](https://www.linkedin.com/in/jussara-rodrigues-1744ab182/)
+[![Gmail Badge](https://img.shields.io/badge/-jprs@cin.ufpe.br-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jprs@cin.ufpe.br)](mailto:jprs@cin.ufpe.br)
 
-Here are some ideas to get you started:
+**_Tropeçando na área de desenvolvimento web (coincidência ou destino?), descobri a minha paixão pela tecnologia e a  forma como ela pode mudar o mundo em cada pedacinho dele._**
+  
+- **Acadêmico :books: |** Estudante de Sistemas de Informação na Universidade Federal de Pernambuco (UFPE)  
+- **Profissional :computer: |** Estagiária em Desenvolvimento de Sistemas no Tribunal Regional Eleitoral de Pernambuco (TRE-PE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Como diria Linus Torvalds:
+```
+>> Falar é fácil, mostre-me o código.
+```
+
+
+
+
