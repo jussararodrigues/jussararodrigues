@@ -9,7 +9,7 @@
 - **Acadêmico :books: |** Estudante de Sistemas de Informação na Universidade Federal de Pernambuco (UFPE)  
 - **Profissional :computer: |** Estagiária em Desenvolvimento de Sistemas no Tribunal Regional Eleitoral de Pernambuco (TRE-PE)
 
-#### Como diria Linus Torvalds:
+
 ```
 >> Falar é fácil, mostre-me o código.
 ```
