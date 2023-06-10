@@ -7,8 +7,6 @@
 **_Tropeçando na área de desenvolvimento web (coincidência ou destino?), descobri a minha paixão pela tecnologia e a  forma como ela pode mudar o mundo em cada pedacinho dele._**
   
 - **Acadêmico :books: |** Estudante de Sistemas de Informação na Universidade Federal de Pernambuco (UFPE)  
-- **Profissional :computer: |** Estagiária em Desenvolvimento de Sistemas no Tribunal Regional Eleitoral de Pernambuco (TRE-PE)
-
 
 ```
 >> Falar é fácil, mostre-me o código.
